@@ -1,21 +1,29 @@
 
 body {
 	background-image: url("background_picture.jpg");	
-
-	background-color: lightsteelblue;
 }
 
 h1 {
 	font-size: 40px;
 	font-weight: bold;
+	text-align: center;
 }
 
 p {
 	font-size: 25px;
 	font-weight: bold;
+	text-align: center;
+}
+
+img {
+	display: block;
+	margin: auto;
 }
 
 a {
 	font-size: 30px;
+	position: relative;
+	top: 20%;
+	left: 45%;
 	text-align: center;
 }
