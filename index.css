@@ -1,7 +1,8 @@
 
 body {
-		background-image: url("background_picture.jpg");
-		
+	background-image: url("background_picture.jpg");	
+
+	background-color: lightsteelblue;
 }
 
 h1 {
@@ -17,4 +18,4 @@ p {
 a {
 	font-size: 30px;
 	text-align: center;
-	}
+}
