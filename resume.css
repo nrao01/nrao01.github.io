@@ -1,0 +1,13 @@
+body {
+		background-color: lightsteelblue; 
+}
+
+ul{
+	list-style-type: circle;
+	list-style-position: inside;
+}
+
+p {
+	font-size: 20px;
+	font-weight: bold;
+}
